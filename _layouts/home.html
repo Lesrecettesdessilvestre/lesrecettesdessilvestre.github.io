@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+  <img class="produit" src="{{ "/assets/images/fond-image.jpeg" | prepend: site.baseurl | prepend: site.url }}" alt="Les recettes de la famille silvestre" title="Les recettes de la famille silvestre"/>
+
+  <section class="commande">
+    <p >
+      Pour passer commande :
+    </p> 
+      <a class="" href="tel:0041794727665">+41 79 472 76 65</a>
+  </section>
+  
+    
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+</div>
