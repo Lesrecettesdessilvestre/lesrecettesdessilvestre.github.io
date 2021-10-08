@@ -1,9 +1,9 @@
+
+
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -11,9 +11,10 @@
   position: relative;
 
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: center;
   padding: 2em;
+  overflow: hidden;
 }
 
 .site-title {
@@ -125,20 +126,30 @@
 * Image produit
 */
 
-
-.produit {
-  object-fit: cover;
-  height: 70vh;
-  width: 100%;
-
-  @media screen and (min-width: $on-medium) {
-    object-position: 100% -215px;
-  }
-
-  @media screen and (min-width: $on-large) {
-    object-position: 100% -530px;
-  }
+.logo {
+  filter: invert(1);
 }
+
+.product {
+  // background: red;
+  height: 75vh;
+  // background-image: url("/assets/images/fond-image.jpeg");
+}
+
+.product-image {
+  position: absolute;
+  min-height: 100%;
+  width: 100%;
+  left:50%;
+  top:50%;
+  /*set the top left corner of the element on the center of the screen*/
+  object-fit: cover;
+  transform:translate(-50%,-50%);
+  /*reposition element center with screen center*/
+  z-index:-1;
+}
+
+
 
 .commande {
   display: flex;
@@ -174,7 +185,6 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
 }
 
