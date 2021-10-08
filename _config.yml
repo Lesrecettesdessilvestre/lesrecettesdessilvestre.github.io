@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 9
-paginate_path: "/blog/page/:num"
+paginate_path: "/points-de-vente/page/:num"
 
 # Pages Path
 defaults:
@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: '_posts'
     values:
-      permalink: /blog/:slug
+      permalink: /points-de-vente/:slug
 
 include:
   - _pages
