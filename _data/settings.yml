@@ -34,9 +34,9 @@ hero:
 portfolio:
   portfolio__title: Produits
   portfolio__gallery:
-    - image: /images/gallery-01.jpg
+    - image: /images/produit-01.jpeg
       title: Samantha Gades
-      description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
+      description: Brown photo frame <b>beside</b> wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 
     - image: /images/gallery-02.jpg
       title: Paula Vermeulen
