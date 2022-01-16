@@ -1,50 +1,51 @@
+---
 #-------------------------------
 # Site Settings
-title: Clancy
+title: Maison Silvestre
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Jason Collins
 description: Clancy is a elegant portfolio theme for Jekyll.
-
 
 #-------------------------------
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Accueil'
-      url: '/'
-    - title: 'Points de ventes'
-      url: '/points-de-vente/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
-
+    - title: "Accueil"
+      url: "/"
+    # - title: "Points de ventes"
+    #  url: "/points-de-vente/"
+    # - title: "About"
+    #  url: "/about/"
+    #- title: "Contact"
+    #  url: "/contact/"
+    #- title: "Elements"
+    #  url: "/elements/"
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco.
-  hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
-
+  hero__title:
+  hero__description: Tous nos produits sont disponibles, pour effectuer une commande, soit par téléphone au <a href="tel:0041794727665">079 472 76 65</a> ou par email <a href="mailto:info@maisonsilvestre.ch">info@maisonsilvestre.ch</a>.
 
 #-------------------------------
 # Portfolio Settings
 portfolio:
   portfolio__title: Produits
   portfolio__gallery:
-    - image: /images/produit-01.jpeg
-      title: Samantha Gades
-      description: Brown photo frame <b>beside</b> wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
+    - image: /images/produits/rillettes.jpg
+      title: Rillettes
+      description: 
+      price: '11,20'
 
-    - image: /images/gallery-02.jpg
-      title: Paula Vermeulen
-      description: Gray mountain covered by mountain <a href="https://unsplash.com/photos/_f2m3mEkaaU">Unsplash</a>
+    - image: /images/produits/tapenade.jpg
+      title: Tapenade
+      description: 
+      price: '6,50'
 
-    - image: /images/gallery-03.jpg
-      title: Bench Accounting
-      description: White wooden table near brown chair <a href="https://unsplash.com/photos/nvzvOPQW0gc">Unsplash</a>
+    - image: /images/produits/anchoiade.jpg
+      title: Anchoïades
+      description: 
+      price: '8,00'
 
 #-------------------------------
 # Subscribe Settings
@@ -54,20 +55,28 @@ mailchimp:
   mailchimp__button__text: Subscribe # Add your button text.
   mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
-
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", color: "#3b5999", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", color: "#ea4c89", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion ion-logo-vimeo", color: "#1393cd", label: Vimeo, link: "https://vimeo.com"}
+  # - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
+  - {
+      icon: "ion-logo-facebook",
+      color: "#3b5999",
+      label: Facebook,
+      link: "https://facebook.com/maisonsilvestre",
+    }
+  # - {icon: "ion-logo-pinterest", color: "#bd081c", label: Pinterest, link: "https://pinterest.com"}
+  # - {icon: "ion-logo-dribbble", color: "#ea4c89", label: Dribbble, link: "https://dribbble.com"}
+  - {
+      icon: "ion-logo-instagram",
+      color: "#e4405f",
+      label: Instagram,
+      link: "https://instagram.com/maisonsilvestre",
+    }
+# - {icon: "ion ion-logo-vimeo", color: "#1393cd", label: Vimeo, link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Contact Settings
@@ -78,12 +87,10 @@ contact:
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 
 disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
-
 
 #-------------------------------
 # Google Analytics

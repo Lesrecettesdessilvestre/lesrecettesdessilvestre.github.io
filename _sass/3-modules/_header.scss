@@ -6,7 +6,7 @@
     align-items: center;
     flex-wrap: wrap;
     padding: 60px $base-spacing-unit;
-  
+
     @media only screen and (max-width: $tablet) {
       padding: 40px $base-spacing-unit;
     }
@@ -16,8 +16,8 @@
 /* Logo */
 .logo__link {
   padding: 4px 0;
-  font-family: $heading-font-family;
-  font-size: 36px;
+  font-family: $logo-font-family;
+  font-size: 46px;
   letter-spacing: -1px;
   line-height: 1;
   font-weight: 700;
@@ -54,7 +54,7 @@
     &.is-open {
       opacity: 1;
       visibility: visible;
-      transition: all .25s ease;
+      transition: all 0.25s ease;
     }
 
     .nav__list {
