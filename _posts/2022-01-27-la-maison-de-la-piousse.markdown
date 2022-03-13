@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fromagerie La P'tite Ferme
+title:  La Maison de la Piousse
 date:   2022-01-26 15:01:35 +0300
 image:  '/images/points-de-ventes/la-maison-de-la-piousse.jpg'
 tags:   [Bar à bières]
