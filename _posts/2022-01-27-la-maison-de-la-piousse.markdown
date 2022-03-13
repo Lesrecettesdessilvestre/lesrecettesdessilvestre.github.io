@@ -3,7 +3,7 @@ layout: post
 title:  Fromagerie La P'tite Ferme
 date:   2022-01-26 15:01:35 +0300
 image:  '/images/points-de-ventes/la-maison-de-la-piousse.jpg'
-tags:   [Marché fermier]
+tags:   [Bar à bières]
 contactname: 
 address: place du temple 11, 1040 Echallens
 phone: 021 881 23 79
