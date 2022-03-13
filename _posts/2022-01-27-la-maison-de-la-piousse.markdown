@@ -7,7 +7,7 @@ tags:   [Bar à bières]
 contactname: 
 address: place du temple 11, 1040 Echallens
 phone: 021 881 23 79
-mail: info@petiteferme.com
+mail: 
 timetable:
     monday: "Fermé"
     tuesday: "10:30 - 20:00"
