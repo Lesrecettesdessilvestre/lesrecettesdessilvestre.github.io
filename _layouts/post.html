@@ -53,9 +53,11 @@ layout: default
         <li>
           <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
         </li>
-        <li>
-          {{ page.mail }}
+        {%if page.mail %}
+        <li>  
+            {{ page.mail }}
         </li>
+        {%endif %}
       </ul>
       <h2>Horaires</h2>
       <ul>
