@@ -40,59 +40,7 @@ layout: default
   {%endif %}
 
   <article class="post">
-    <div class="row">
-    <div class="col col-6 post__contact">
-      <h2>Contact</h2>
-      <ul>
-        <li>
-          {{ page.contactname }}
-        </li>
-        <li>
-           {{ page.address }}
-        </li>
-        <li>
-          <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
-        </li>
-        <li>
-          {{ page.mail }}
-        </li>
-      </ul>
-      <h2>Horaires</h2>
-      <ul>
-        <li>
-          Lun. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Mar. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Mer. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Jeu. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Ven. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Sam. {{ page.timetable.monday }}
-        </li>
-        <li>
-          Dim. {{ page.timetable.monday }}
-        </li>
-      </ul>
-    </div>
-    <div class="col col-6">
-      <iframe
-  width="450"
-  height="450"
-  frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place
-  ?key=AIzaSyBwCfeIFvrqDhDQ2BKXdD4hB9fS9uMyQZw
-  &q=Eiffel+Tower,Paris+France" allowfullscreen>
-</iframe>
-    </div>
-  </div>
+
     <div class="post__content">
       {{ content }}
     </div>

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  A journey of a thousand leagues begins beneath one’s feet
-date:   2018-11-09 15:01:35 +0300
-image:  '/images/06.jpg'
-tags:   [travel, story, rest]
+title:  Anchoiade
+description:
+date:   2018-05-29 18:05:55 +0300
+image:  '/images/12.jpg'
+tags:   [technology, study]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) diversity and empowerment.
+Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Becca Tapert](https://unsplash.com/photos/lA7OhpEMRug) diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
@@ -15,8 +16,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
-![House]({{site.baseurl}}/images/03.jpg)
-*Photo by [Hugo Sousa](https://unsplash.com/photos/BghGseQbAkA) on [Unsplash](https://unsplash.com/)*
+![Steps]({{site.baseurl}}/images/02-2.jpg)
+*Photo by [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -24,12 +25,12 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 ### Podcasting
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Jaz King](https://unsplash.com/photos/DOoYFgTQWfs) potentialities.
+Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Todd Quackenbush](https://unsplash.com/photos/JJB_K8aCPU4) potentialities.
 
 Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
 
-![Steps]({{site.baseurl}}/images/05.jpg)
-*Photo by [Jaz King](https://unsplash.com/photos/DOoYFgTQWfs) on [Unsplash](https://unsplash.com/)*
+![Kitchen]({{site.baseurl}}/images/02-1.jpg)
+*Photo by [Becca Tapert](https://unsplash.com/photos/lA7OhpEMRug) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

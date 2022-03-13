@@ -25,6 +25,14 @@ defaults:
       path: '_posts'
     values:
       permalink: /points-de-vente/:slug
+  - scope:
+      path: '_products'
+    values:
+      permalink: /produits/:slug
+
+collections:
+  products:
+    output: true
 
 include:
   - _pages
