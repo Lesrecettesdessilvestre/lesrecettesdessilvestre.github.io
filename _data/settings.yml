@@ -16,6 +16,8 @@ menu__settings:
       url: "/produits/"
     - title: "Points de ventes"
       url: "/points-de-vente/"
+    - title: "Points de dégustation"
+      url: "/points-de-degustation/"
     - title: "À propos"
       url: "/a-propos/"
     - title: "Contact"

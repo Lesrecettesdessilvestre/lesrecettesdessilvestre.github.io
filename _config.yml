@@ -29,9 +29,15 @@ defaults:
       path: '_products'
     values:
       permalink: /produits/:slug
+  - scope:
+      path: '_tasteit'
+    values:
+      permalink: /point-de-degustation/:slug
 
 collections:
   products:
+    output: true
+  tasteit:
     output: true
 
 include:

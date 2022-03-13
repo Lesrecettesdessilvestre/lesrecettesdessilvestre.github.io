@@ -1,10 +1,11 @@
 ---
-layout: post
-title:  Anchoiade
+layout: product
+title:  Anchoïade
 description:
-date:   2018-05-29 18:05:55 +0300
-image:  '/images/12.jpg'
-tags:   [technology, study]
+info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
+date:   2018-04-23 15:01:35 +0300
+image:  '/images/produits/anchoiade.jpg'
+price: "6.40"
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Becca Tapert](https://unsplash.com/photos/lA7OhpEMRug) diversity and empowerment.
 

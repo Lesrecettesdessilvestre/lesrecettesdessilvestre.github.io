@@ -247,3 +247,22 @@
 
   }
 }
+
+.post__product {
+  ul {
+    list-style: none;
+    li {
+      &.price {
+        font-size: 2em;
+        font-weight: bold;
+        small {
+          display: block;
+          font-size: 40%;
+        }
+      }
+      &.info {
+        font-size: 80%;
+      }
+    }
+  }
+}

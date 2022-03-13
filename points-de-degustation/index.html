@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Points de ventes
+title: Points de dégustation
 description: 'Clancy blog features productivity, tips, inspiration. Find out how to set up a successful blog or how to make yours even
 better!'
 ---
@@ -26,9 +26,9 @@ better!'
 
 <div class="container">
   <div class="row animate">
-    {% if site.posts.size > 0 %}
-      {% for post in site.posts %}
-        {% include article.html %}
+    {% if site.tasteit.size > 0 %}
+      {% for tasteit in site.tasteit %}
+        {% include tasteit.html %}
       {% endfor %}
     {% endif %}
   </div>
