@@ -20,8 +20,8 @@ menu__settings:
       url: "/a-propos/"
     - title: "Contact"
       url: "/contact/"
-    - title: "Elements"
-      url: "/elements/"
+    #- title: "Elements"
+    #  url: "/elements/"
 
 #-------------------------------
 # Hero Settings
