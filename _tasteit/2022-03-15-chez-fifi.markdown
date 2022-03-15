@@ -1,0 +1,19 @@
+---
+layout: post
+title: Chez Fifi Sàrl
+date:   2022-03-15 11:00:00 +0300
+image:  '/images/points-de-ventes/chez-fifi.jpg'
+tags:   [Restaurant]
+contactname: 
+address: Route de Pomy 9, 1400 Yverdon-les-Bains
+phone: 024 425 25 22
+mail: 
+timetable:
+    monday: "6:30 - 14:00"
+    tuesday: "6:30 - 14:00"
+    wednesday: "6:30 - 14:00"
+    thursday: "6:30 - 14:00"
+    friday: "6:30 - 14:00 / 17:00 - 20:00"
+    saturday: "Fermé"
+    sunday: "Fermé"
+---
