@@ -6,6 +6,7 @@ image:  '/images/points-de-ventes/la-maison-de-la-piousse.jpg'
 tags:   [Bar à bières]
 contactname: 
 address: place du temple 11, 1040 Echallens
+city: Echallens
 phone: 021 881 23 79
 mail: 
 timetable:

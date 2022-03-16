@@ -6,6 +6,7 @@ image:  '/images/points-de-ventes/les-jardins-de-la-petite-lignieres.jpg'
 tags:   [Marché fermier]
 contactname: Pascal Chollet
 address: Rte Suisse 55, 1196 Gland
+city: Gland
 phone: 076 305 11 96
 mail: info@lapetiteligniere.ch
 timetable:

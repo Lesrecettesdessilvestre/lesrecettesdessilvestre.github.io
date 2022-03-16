@@ -6,6 +6,7 @@ image:  '/images/points-de-ventes/chez-fifi.jpg'
 tags:   [Restaurant]
 contactname: 
 address: Route de Pomy 9, 1400 Yverdon-les-Bains
+city: Yverdon-les-Bains
 phone: 024 425 25 22
 mail: 
 timetable:

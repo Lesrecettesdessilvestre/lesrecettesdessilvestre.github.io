@@ -6,6 +6,7 @@ image:  '/images/points-de-ventes/l-alimentarie.jpg'
 tags:   [Supérette]
 contactname: 
 address: Chemin de Sau 1, 1038 Bercher
+city: Bercher
 phone: 021 887 83 84
 mail:
 timetable:

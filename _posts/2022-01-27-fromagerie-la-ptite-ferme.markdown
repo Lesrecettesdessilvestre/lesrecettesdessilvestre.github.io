@@ -6,6 +6,7 @@ image:  '/images/points-de-ventes/fromagerie-la-ptite-ferme.jpg'
 tags:   [Marché fermier]
 contactname: 
 address: Ruelle du Commerce 3, 1040 Echallens
+city: Echallens
 phone: 021 881 26 60
 mail: info@petiteferme.com
 timetable:
