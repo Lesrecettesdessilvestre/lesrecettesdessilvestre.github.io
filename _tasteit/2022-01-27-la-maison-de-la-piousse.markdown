@@ -18,3 +18,5 @@ timetable:
     saturday: "10:30 - 22:00"
     sunday: "Fermé"
 ---
+
+Autour d'une bonne bière, avec un choix pour les avertis dans un lieu conviviale 
