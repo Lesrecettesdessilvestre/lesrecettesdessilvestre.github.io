@@ -19,4 +19,4 @@ timetable:
     sunday: "Fermé"
 ---
 
-Autour d'une bonne bière, avec un choix pour les avertis dans un lieu conviviale 
+Venez déguster tous nos produits autour d'une bonne bière ou d'un verre de vin, avec un grand choix pour les avertis, des conseils pour les amateurs le tout dans un lieu conviviale et joival.
