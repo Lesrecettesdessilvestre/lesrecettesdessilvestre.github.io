@@ -1,0 +1,26 @@
+---
+layout: post
+title:  Boulangerie Bezençon
+date:   2022-03-22 11:00:00 +0300
+image:  '/images/points-de-ventes/bezencon.jpg'
+tags:   [Boulangerie]
+contactname: 
+address: Route d’Eclagnens 12c 1376 Goumoens-la-Ville
+city: Goumoens-la-Ville
+phone: 021 881 11 43
+mail:
+timetable:
+    monday: "Fermé"
+    tuesday: "6:00 - 18:30"
+    wednesday: "6:00 - 18:30"
+    thursday: "6:00 - 18:30"
+    friday: "6:00 - 18:30"
+    saturday: "7:00 - 17:00"
+    sunday: "7:00 - 16:00"
+---
+
+Dans ses pains et pâtisseries, la Boulangerie Bezençon met du goût, de la passion, du savoir-faire et beaucoup d’âme.
+
+Cette boulangerie, c’est avant tout une histoire de famille. Le couple formé par Nathalie et Cyril s’entoure entre autres de Céline, en tant que cheffe pâtissière, Janine et Christelle à la vente, Evelyne au bureau, tandis que les autres membres de la famille ne sont jamais bien loin pour mettre la main à la pâte lorsqu’il faut.
+
+On ne fait rien seul et les Bezençon l’ont bien compris en s’entourant des producteurs de la région, qui donnent un goût de saison aux pains, viennoiseries, pâtisseries et sandwichs.
