@@ -28,8 +28,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title:
-  hero__description: 'Tous nos produits sont disponibles, pour effectuer une commande : <br/> par téléphone au <a href="tel:0041794727665">079 472 76 65</a> ou par email <a href="mailto:info@maisonsilvestre.ch">info@maisonsilvestre.ch</a>.'
+  hero__title: ''
+  hero__description: ''
 
 #-------------------------------
 # Portfolio Settings
