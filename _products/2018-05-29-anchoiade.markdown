@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  Anchoïade
-description: Notre anchoïade doit sa recette à mon père, bon vivant et fin palais, il a su perfectionner cette recette qui nous transporte jusqu'au soleil du midi.
+description: Notre anchoïade traditionnelle, doit sa recette à notre père, connaisseur et fin gourmet. Avec le temps, il a su perfectionner cette recette, nous transportant ainsi, jusqu’en Provence.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/anchoiade.jpg'
