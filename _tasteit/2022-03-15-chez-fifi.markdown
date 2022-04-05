@@ -19,4 +19,4 @@ timetable:
     sunday: "Fermé"
 ---
 
-Venez déguster tous nos produits aux soirées apéro ou aux brunchs, le tout dans un endroit chalereux, acceuillant et familliale! N'hésiter pas à regarder le programme pour réserver vos places!
+Venez déguster tous nos produits aux soirées apéros ou aux brunchs, le tout dans un endroit chalereux, accueillant et familiale! N'hésiter pas à regarder le programme pour réserver vos places!
