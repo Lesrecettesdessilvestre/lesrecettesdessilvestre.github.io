@@ -10,8 +10,7 @@ price: "8.00chf le pot de 100g (prix net conseillé)"
 
 ## Description
 
-Notre anchoïade doit sa recette à mon père, bon vivant et fin palais,
-il a su perfectionner cette recette qui nous transporte jusqu'au soleil du midi.
+Notre anchoïade traditionnelle, doit sa recette à notre père, connaisseur et fin gourmet. Avec le temps, il a su perfectionner cette recette, nous transportant ainsi, jusqu’en Provence.
 
 Confectionner avec des anchois, basilic frais, thym et une bonne huile d'olive extra vierge qui nous donne cette crème au goût fin et délicat.
 

@@ -10,7 +10,7 @@ price: "11.20chf le pot de 160g (prix net conseillé) / 7chf au 100g"
 
 ## Description
 
-Notre rillette traditionnelle doit sa recette à notre arrière grand-père, boucher de métier et passionné par la cuisine, elle se transmet désormais de génération en génération.
+Nos rillettes traditionnelles, doivent leur recette à notre arrière-grand-père, boucher de métier et passionné par la cuisine. Elle se transmet désormais, de génération en génération.
 
 Une recette suivie minutieusement et qui fait que notre recette est unique.
 
