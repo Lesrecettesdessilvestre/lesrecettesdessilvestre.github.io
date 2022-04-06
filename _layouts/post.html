@@ -85,14 +85,15 @@ layout: default
       </ul>
     </div>
     <div class="col col-6">
-      <iframe
-  width="450"
-  height="450"
-  frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place
-  ?key=AIzaSyBwCfeIFvrqDhDQ2BKXdD4hB9fS9uMyQZw
-  &q=Eiffel+Tower,Paris+France" allowfullscreen>
-</iframe>
+      latitude= {{ page.map.lat }}
+        longitude= {{ page.map.long }}
+      {% google_map
+        zoom="16"
+        width="100%"
+        height="540"
+        latitude= {{ page.map.lat }}
+        longitude= {{ page.map.long }}
+         %}
     </div>
   </div>
     <div class="post__content">

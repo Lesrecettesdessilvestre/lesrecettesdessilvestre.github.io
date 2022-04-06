@@ -9,6 +9,9 @@ address: Route d’Eclagnens 12c 1376 Goumoens-la-Ville
 city: Goumoens-la-Ville
 phone: 021 881 11 43
 mail:
+map:
+    lat: 46.65674824966636 
+    long: 6.602032584813584
 timetable:
     monday: "Fermé"
     tuesday: "6:00 - 18:30"

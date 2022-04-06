@@ -4,4 +4,6 @@ gem "bundler"
 gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "jekyll-maps"
 gem "webrick", "~> 1.7"
+

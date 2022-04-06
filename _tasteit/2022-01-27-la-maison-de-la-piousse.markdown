@@ -8,6 +8,9 @@ contactname:
 address: place du temple 11, 1040 Echallens
 city: Echallens
 phone: 021 881 23 79
+map:
+    lat: 46.640430217671685
+    long: 6.633880604456517
 mail: 
 timetable:
     monday: "Fermé"

@@ -86,7 +86,7 @@ social:
 # Contact Settings
 contact:
   email: info@maisonsilvestre.ch # Add your email for contact form
-  description: Si vous souhaitez devenir revendeur . # Add a description of your form.
+  description: Laissez-nous un message # Add a description of your form.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
