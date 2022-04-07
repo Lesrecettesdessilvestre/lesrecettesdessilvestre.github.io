@@ -17,7 +17,7 @@ timetable:
     tuesday: "10:30 - 20:00"
     wednesday: "10:30 - 20:00"
     thursday: "10:30 - 20:00"
-    friday: "10:30 - 20:00"
+    friday: "10:30 - 22:00"
     saturday: "10:30 - 22:00"
     sunday: "Fermé"
 ---

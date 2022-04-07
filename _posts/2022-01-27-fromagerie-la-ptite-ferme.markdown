@@ -10,11 +10,11 @@ city: Echallens
 phone: 021 881 26 60
 mail: info@petiteferme.com
 timetable:
-    monday: "7:00 - 21:30"
-    tuesday: "7:00 - 21:30"
-    wednesday: "7:00 - 21:30"
-    thursday: "7:00 - 21:30"
-    friday: "7:00 - 21:30"
-    saturday: "7:00 - 21:30"
-    sunday: "7:00 - 21:30"
+    monday: "Fermé"
+    tuesday: "8:00/12:00 - 14:00/18:30"
+    wednesday: "8:00/12:00 - 14:00/18:30"
+    thursday: "8:00/12:00 - 14:00/18:30"
+    friday: "8:00/12:00 - 14:00/18:30"
+    saturday: "7:30 - 16:00"
+    sunday: "Fermé"
 ---
