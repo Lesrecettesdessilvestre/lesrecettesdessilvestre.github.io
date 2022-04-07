@@ -11,10 +11,10 @@ phone: 021 881 26 60
 mail: info@petiteferme.com
 timetable:
     monday: "Fermé"
-    tuesday: "8:00/12:00 - 14:00/18:30"
-    wednesday: "8:00/12:00 - 14:00/18:30"
-    thursday: "8:00/12:00 - 14:00/18:30"
-    friday: "8:00/12:00 - 14:00/18:30"
+    tuesday: "8:00-12:00 - 14:00-18:30"
+    wednesday: "8:00-12:00 - 14:00-18:30"
+    thursday: "8:00-12:00 - 14:00-18:30"
+    friday: "8:00-12:00 - 14:00-18:30"
     saturday: "7:30 - 16:00"
     sunday: "Fermé"
 ---
