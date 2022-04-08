@@ -13,13 +13,13 @@ map:
     lat: "46.4214094689885"
     long: "6.285409354100436"
 timetable:
-    monday: "7:00 - 21:30"
-    tuesday: "7:00 - 21:30"
-    wednesday: "7:00 - 21:30"
-    thursday: "7:00 - 21:30"
-    friday: "7:00 - 21:30"
-    saturday: "7:00 - 21:30"
-    sunday: "7:00 - 21:30"
+    monday: "07:00 – 21:30"
+    tuesday: "07:00 – 21:30"
+    wednesday: "07:00 – 21:30"
+    thursday: "07:00 – 21:30"
+    friday: "07:00 – 21:30"
+    saturday: "07:00 – 21:30"
+    sunday: "07:00 – 21:30"
 ---
 
 ## Le libre service et le marché à la ferme

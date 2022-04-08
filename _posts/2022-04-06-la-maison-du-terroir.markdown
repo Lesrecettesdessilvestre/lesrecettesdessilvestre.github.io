@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La maison du terroir de Grandson
+title:  La Maison des Terroirs
 date:   2022-01-26 15:01:35 +0300
 image:  '/images/points-de-ventes/maisonduterroir.jpg'
 tags:   [Marché fermier]
@@ -14,12 +14,12 @@ map:
     long: "6.644328269456653"
 timetable:
     monday: "Fermé"
-    tuesday: "9:30 - 18:00"
-    wednesday: "9:30 - 18:00"
-    thursday: "9:30 - 18:00"
-    friday: "9:30 - 18:00"
-    saturday: "9:30 - 14:30"
-    sunday: "Fermé"
+    tuesday: "10:00 – 20:00"
+    wednesday: "10:00 – 20:00"
+    thursday: "10:00 – 20:00"
+    friday: "10:00 – 20:00"
+    saturday: "09:00 – 18:00"
+    sunday: "10:00 – 18:00"
 ---
 
 Venez dégustez les bons crus de Bonvillars accompagnés de nos mets de saison au coin de notre cheminée, comme à la Maison!

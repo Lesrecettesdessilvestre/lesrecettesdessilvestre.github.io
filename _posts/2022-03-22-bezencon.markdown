@@ -14,12 +14,12 @@ map:
     long: "6.6019682117798295"
 timetable:
     monday: "Fermé"
-    tuesday: "6:00 - 18:30"
-    wednesday: "6:00 - 18:30"
-    thursday: "6:00 - 18:30"
-    friday: "6:00 - 18:30"
-    saturday: "7:00 - 17:00"
-    sunday: "7:00 - 16:00"
+    tuesday: "06:00 – 18:30"
+    wednesday: "06:00 – 18:30"
+    thursday: "06:00 – 18:30"
+    friday: "06:00 – 18:30"
+    saturday: "07:00 – 17:00"
+    sunday: "07:00 – 16:00"
 ---
 
 Dans ses pains et pâtisseries, la Boulangerie Bezençon met du goût, de la passion, du savoir-faire et beaucoup d’âme.

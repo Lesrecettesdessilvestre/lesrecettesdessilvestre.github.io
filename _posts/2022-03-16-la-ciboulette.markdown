@@ -13,13 +13,13 @@ map:
     lat: "46.6652449741198"
     long: "6.5225912271241295"
 timetable:
-    monday: "7:00 - 18:00"
-    tuesday: "7:00 - 18:00"
-    wednesday: "7:00 - 18:00"
-    thursday: "7:00 - 18:00"
-    friday: "7:00 - 18:00"
-    saturday: "7:00 - 17:00"
-    sunday: "7:00 - 12:00"
+    monday: "07:00 – 18:00"
+    tuesday: "07:00 – 18:00"
+    wednesday: "07:00 – 18:00"
+    thursday: "07:00 – 18:00"
+    friday: "07:00 – 18:00"
+    saturday: "07:00 – 17:00"
+    sunday: "07:00 – 12:00"
 ---
 
 La Ciboulette à Orny est un magasin qui vous propose un grand choix de fruits et légumes frais, de nombreux produits du terroir, du pain, de la viande fraiche, des produits laitiers, ainsi que de nombreux autres produits, tous issue de la région.
