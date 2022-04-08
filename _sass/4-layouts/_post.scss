@@ -301,7 +301,7 @@
 
 /* Set the size of the div element that contains the map */
 #map {
-  height: 550px;
+  height: calc(100% - 3em);
   /* The height is 400 pixels */
   width: 100%;
   /* The width is the width of the web page */
