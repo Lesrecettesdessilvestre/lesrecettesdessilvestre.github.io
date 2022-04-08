@@ -2,6 +2,30 @@
 layout: default
 ---
 
+<script>
+// Initialize variables
+
+// Initialize and add the map
+function initMap() {
+  // The location of position
+
+  let latitude = {{ page.map.lat }};
+  let longitude = {{ page.map.long }};
+
+  const pos = { lat: latitude, lng: longitude };
+  // The map, centered at position
+  const map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 14,
+    center: pos,
+  });
+  // The marker, positioned at position
+  const marker = new google.maps.Marker({
+    position: pos,
+    map: map,
+  });
+}
+</script>
+
 <div class="container">
   <div class="row">
     <div class="col col-12">
@@ -85,8 +109,14 @@ layout: default
       </ul>
     </div>
     <div class="col col-6">
-      latitude= {{ page.map.lat }}
-        longitude= {{ page.map.long }}
+        <!--The div element for the map -->
+    <div id="map"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQqGskh4ilLlX-HeAiui5TbHd6EMr4GzI&callback=initMap&v=weekly"
+      async
+    ></script>
       
     </div>
   </div>

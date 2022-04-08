@@ -11,13 +11,6 @@ permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-maps
-
-maps:
-  google:
-    api_key: AIzaSyCQqGskh4ilLlX-HeAiui5TbHd6EMr4GzI
-    marker_cluster:
-        enabled: true
 
 paginate: 9
 paginate_path: "/points-de-vente/page/:num"
