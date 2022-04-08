@@ -9,6 +9,9 @@ address: Ruelle du Commerce 3, 1040 Echallens
 city: Echallens
 phone: 021 881 26 60
 mail: info@petiteferme.com
+map:
+    lat: "46.64179173869269"
+    long: "6.632877857811458"
 timetable:
     monday: "Fermé"
     tuesday: "8:00-12:00 - 14:00-18:30"

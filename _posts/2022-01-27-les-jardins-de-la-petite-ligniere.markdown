@@ -9,6 +9,9 @@ address: Rte Suisse 55, 1196 Gland
 city: Gland
 phone: 076 305 11 96
 mail: info@lapetiteligniere.ch
+map:
+    lat: "46.4214094689885"
+    long: "6.285409354100436"
 timetable:
     monday: "7:00 - 21:30"
     tuesday: "7:00 - 21:30"

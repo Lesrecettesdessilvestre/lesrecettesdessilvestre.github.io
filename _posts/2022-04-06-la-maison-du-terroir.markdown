@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lq maison du terroir de Grandson
+title:  La maison du terroir de Grandson
 date:   2022-01-26 15:01:35 +0300
 image:  '/images/points-de-ventes/maisonduterroir.jpg'
 tags:   [Marché fermier]
@@ -9,6 +9,9 @@ address: Rue Haute 13, 1422 Grandson
 city: Grandson
 phone: 024 445 60 60
 mail: info@terroirs-region-grandson.ch
+map:
+    lat: "46.80876641604967"
+    long: "6.644328269456653"
 timetable:
     monday: "Fermé"
     tuesday: "9:30 - 18:00"

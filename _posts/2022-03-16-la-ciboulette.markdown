@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Marché La Ciboulette
+title:  Messeiller Marché Ciboulette
 date:   2022-03-16 11:00:00 +0300
 image:  '/images/points-de-ventes/la-ciboulette.jpg'
 tags:   [Magasin]
@@ -9,6 +9,9 @@ address: Route de La Sarraz 35, 1317 Orny
 city: Orny
 phone: 021 866 17 62
 mail:
+map:
+    lat: "46.6652449741198"
+    long: "6.5225912271241295"
 timetable:
     monday: "7:00 - 18:00"
     tuesday: "7:00 - 18:00"

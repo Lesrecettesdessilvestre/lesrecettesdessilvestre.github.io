@@ -8,7 +8,10 @@ contactname:
 address: Route de Pomy 9, 1400 Yverdon-les-Bains
 city: Yverdon-les-Bains
 phone: 024 425 25 22
-mail: 
+mail:
+map:
+    lat: "46.77043949862744"
+    long: "6.657263569455426"
 timetable:
     monday: "6:30 - 14:00"
     tuesday: "6:30 - 14:00"

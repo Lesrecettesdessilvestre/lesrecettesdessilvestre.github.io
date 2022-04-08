@@ -10,8 +10,8 @@ city: Goumoens-la-Ville
 phone: 021 881 11 43
 mail:
 map:
-    lat: 46.65674824966636 
-    long: 6.602032584813584
+    lat: "46.65673352171258"
+    long: "6.6019682117798295"
 timetable:
     monday: "Fermé"
     tuesday: "6:00 - 18:30"

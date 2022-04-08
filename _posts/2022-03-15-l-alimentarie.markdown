@@ -9,6 +9,9 @@ address: Chemin de Sau 1, 1038 Bercher
 city: Bercher
 phone: 021 887 83 84
 mail:
+map:
+    lat: "46.69367199456424"
+    long: "6.708699754109"
 timetable:
     monday: "7:30 - 12:15 / 15:00 - 18:30"
     tuesday: "7:30 - 12:15 / 15:00 - 18:30"
