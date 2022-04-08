@@ -285,11 +285,11 @@
     margin: 0;
     li {
       &.price {
-        font-size: 2em;
+        font-size: 1.5rem;
         font-weight: bold;
         small {
           display: block;
-          font-size: 40%;
+          font-size: 1rem;
         }
       }
       &.info {
@@ -302,7 +302,9 @@
 /* Set the size of the div element that contains the map */
 #map {
   height: calc(100% - 3em);
+  min-height: 400px;
   /* The height is 400 pixels */
   width: 100%;
   /* The width is the width of the web page */
+  margin-bottom: 3em;
 }
