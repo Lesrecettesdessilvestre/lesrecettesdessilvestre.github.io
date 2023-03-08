@@ -52,9 +52,9 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 }
 
 
-@for $i from 0 through $columns {
+@for $i from 1 through $columns {
   .col-#{$i} {
-    $width: calc( $i / $columns * 100%);
+    $width: percentage( calc( $i / $columns));
     width: $width;
   }
 }
