@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Laiterie du Château
-date:   2023-03-06 15:01:35 +0300
+date:   2023-03-06 08:01:35 +0300
 image:  '/images/points-de-ventes/laiterie-du-chateau.jpg'
 tags:   [Épicerie spécialisée]
 contactname: 
@@ -21,5 +21,3 @@ timetable:
     saturday: "08:30 – 17:00"
     sunday: "Fermé"
 ---
-
-Venez dégustez les bons crus de Bonvillars accompagnés de nos mets de saison au coin de notre cheminée, comme à la Maison!

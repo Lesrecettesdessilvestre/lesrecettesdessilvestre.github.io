@@ -18,6 +18,8 @@ menu__settings:
       url: "/points-de-vente/"
     - title: "Points de dégustation"
       url: "/points-de-degustation/"
+    - title: "Événements"
+      url: "/evenements/"
     - title: "À propos"
       url: "/a-propos/"
     - title: "Contact"

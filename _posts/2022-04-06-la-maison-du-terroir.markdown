@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La Maison des Terroirs
+title:  La Maison du Terroirs
 date:   2022-01-26 15:01:35 +0300
 image:  '/images/points-de-ventes/maisonduterroir.jpg'
 tags:   [Marché fermier]

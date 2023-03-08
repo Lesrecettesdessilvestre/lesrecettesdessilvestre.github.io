@@ -33,11 +33,17 @@ defaults:
       path: '_tasteit'
     values:
       permalink: /point-de-degustation/:slug
+  - scope:
+      path: '_events'
+    values:
+      permalink: /evenements/:slug
 
 collections:
   products:
     output: true
   tasteit:
+    output: true
+  events:
     output: true
 
 include:

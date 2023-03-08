@@ -21,5 +21,3 @@ timetable:
     saturday: "09:00 – 16:00"
     sunday: "Fermé"
 ---
-
-HO! Terroir est un projet collaboratif qui a pour but de vous proposer des produits locaux et de qualité et ceci dans un local aménagé avec soin. Nous prônons l’authenticité et avons à coeur d’inscrire notre projet dans une volonté de durabilité mais surtout d’équité en proposant des tarifs adéquats en rémunérant les producteurs à la juste valeur du travail fourni.
