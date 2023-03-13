@@ -54,7 +54,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 @for $i from 1 through $columns {
   .col-#{$i} {
-    $width: calc($i / $columns);
+    $width: calc( #{$i} / #{$columns} );
     width:  calc( $width * 100% );/* Grid */
     content: "";
     $columns: 12;
