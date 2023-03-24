@@ -5,7 +5,7 @@ description: Notre tapenade traditionnelle, doit sa recette à notre père, bon 
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/tapenade.jpg'
-price: "7.00chf le pot de 100g"
+price: "8.00 chf le pot de 100g"
 ---
 
 ## Description

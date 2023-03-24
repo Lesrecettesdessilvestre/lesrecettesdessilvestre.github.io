@@ -5,7 +5,7 @@ description: Nos rillettes traditionnelles, doivent leur recette à notre arriè
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/rillettes.jpg'
-price: "11.20chf le pot de 160g / 7chf au 100g"
+price: "12.00 chf le pot de 160g / 7.5 chf au 100g"
 ---
 
 ## Description
