@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  Anchoïade
-description: Notre anchoïade traditionnelle, doit sa recette à notre père, connaisseur et fin gourmet. Avec le temps, il a su perfectionner cette recette, nous transportant ainsi, jusqu’en Provence.
+description: Découvrez notre anchoïade authentique, préparée avec passion selon une recette transmise de génération en génération, alliant des anchois de qualité, du basilic frais et une délicate huile d'olive extra vierge, pour une expérience gustative méditerranéenne pleine de caractère et de finesse.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/anchoiade.jpg'
@@ -10,12 +10,12 @@ price: "10.00 chf le pot de 100g"
 
 ## Description
 
-Notre anchoïade traditionnelle, doit sa recette à notre père, connaisseur et fin gourmet. Avec le temps, il a su perfectionner cette recette, nous transportant ainsi, jusqu’en Provence.
+Découvrez notre anchoïade traditionnelle, dont la recette authentique nous vient de notre père, un connaisseur et fin gourmet. Au fil du temps, il a su perfectionner cette recette, nous transportant ainsi jusqu'en Provence.
 
-Confectionner avec des anchois, basilic frais, thym et une bonne huile d'olive extra vierge qui nous donne cette crème au goût fin et délicat.
+Confectionnée à base d'anchois, de basilic frais, de thym et d'une délicieuse huile d'olive extra vierge, notre anchoïade offre une crème au goût fin et délicat.
 
-100% naturelle, sans conservateur, sans colorrants et sans additifs. Nous mettons une attention particulière à choisir nos ingrédients en circuit court et de bonne qualité.
+100% naturelle, sans conservateur, sans colorants et sans additifs, notre anchoïade est préparée avec des ingrédients de qualité soigneusement sélectionnés en circuit court.
 
-Elle se déguste savoureusement avec un  verre de rosé/blanc sec et légé ou avec une bonne anisette!
+Pour savourer pleinement notre anchoïade, dégustez-la avec un verre de rosé ou de vin blanc sec et léger, ou accompagnez-la d'une bonne anisette !
 
-Elle accompagnera vos salades, vos apéro de légumes, vos crackers ainsi que vos plats d'été.
+Elle se marie parfaitement avec vos salades, vos plateaux d'apéritif à base de légumes, vos crackers ainsi que vos plats estivaux.

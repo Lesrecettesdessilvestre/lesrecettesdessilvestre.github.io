@@ -1,23 +1,21 @@
 ---
 layout: product
 title:  Rillettes
-description: Nos rillettes traditionnelles, doivent leur recette à notre arrière-grand-père, boucher de métier et passionné par la cuisine. Elle se transmet désormais, de génération en génération.
+description: Découvrez nos rillettes traditionnelles, préparées avec passion selon une recette héritée de notre arrière-grand-père, offrant une texture fondante et un goût authentique qui vous transporte instantanément dans les délices de la cuisine artisanale.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/rillettes.jpg'
-price: "12.00 chf le pot de 160g / 7.5 chf au 100g"
+price: "12.00 chf le pot de 160g"
 ---
 
 ## Description
 
-Nos rillettes traditionnelles, doivent leur recette à notre arrière-grand-père, boucher de métier et passionné par la cuisine. Elle se transmet désormais, de génération en génération.
+Découvrez nos rillettes traditionnelles, héritées de notre arrière-grand-père, un boucher passionné de cuisine. Cette recette unique se transmet de génération en génération.
 
-Une recette suivie minutieusement et qui fait que notre recette est unique.
+Nos rillettes sont préparées avec minutie, suivant une recette authentique. Elles sont à base de 100% pur porc, cuites lentement à feu doux avec un mélange d'épices soigneusement sélectionnées.
 
-100% pur porc, elle sont cuite longuement à feu doux avec un mélanges d'épices minutieusement selectionné.
+Fabriquées à partir d'ingrédients de qualité, choisis avec attention dans notre région ou en circuit court, nos rillettes sont 100% naturelles, sans conservateur, sans colorants et sans additifs.
 
-100% naturelle, sans conservateur, sans colorants et sans additifs. Nous mettons une attention particulière à choisir nos ingrédients dans la région ou en circuit court et de bonne qualité.
+Pour accompagner ces délicieuses rillettes, optez pour un vin rouge léger et fruité ou une bière de caractère ambrée.
 
-Elle s'accompagne à merveille avec un bon vin rouge légé et fruité ou une bonne bière de caratère (ambré).
-
-Délicieuse à l'apéro sur un bout de pain et quelques cornichons, en entrée avec une petite salade ou à la fourchette pour les plus gourmands.
+Que ce soit à l'apéritif sur un morceau de pain avec quelques cornichons, en entrée accompagnées d'une petite salade ou tout simplement dégustées à la fourchette pour les plus gourmands, nos rillettes sauront ravir vos papilles.

@@ -26,8 +26,8 @@ description: 'Vous trouverez ci-dessous la liste de tous les événements auquel
 <div class="container">
   <div class="row animate">
     {% if site.events.size > 0 %}
-      {% for event in site.events %}
-        {% include article.html %}
+      {% for events in site.events %}
+        {% include event.html %}
       {% endfor %}
     {% endif %}
   </div>

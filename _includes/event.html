@@ -1,0 +1,22 @@
+<div class="article event col col-6 col-d-6 col-m-12">
+    <div class="article__inner">
+  
+      <div class="article__head">
+        {% if events.image %}
+        <a class="article__image" href="{{events.url | prepend: site.baseurl}}">
+          <img class="lazy" data-src="{{site.baseurl}}{{events.image}}" alt="{{events.title}}">
+        </a>
+        {% endif %}
+      </div>
+  
+      <div class="article__content">
+  
+        <h2 class="article__title">
+          <a href="{{ events.url | prepend: site.baseurl }}">{{ events.title }}</a>
+        </h2>
+  
+        <p class="article__excerpt">{% if events.description %}{{ events.description }}{% else %}{{ events.content | strip_html | truncate: 80 }}{% endif %}</p>
+  
+      </div>
+    </div>
+  </div>

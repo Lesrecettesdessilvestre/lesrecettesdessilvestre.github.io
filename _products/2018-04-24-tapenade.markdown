@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  Tapenade
-description: Notre tapenade traditionnelle, doit sa recette à notre père, bon vivant et fin palais, qui a su perfectionner cette recette, nous transportant ainsi, jusqu'au soleil du midi.
+description: Savourez notre tapenade traditionnelle, une véritable explosion de saveurs méditerranéennes, alliant les olives noires, les anchois et une sélection d'épices soigneusement dosées, pour une expérience gustative intense et ensoleillée.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/tapenade.jpg'
@@ -10,12 +10,12 @@ price: "8.00 chf le pot de 100g"
 
 ## Description
 
-Notre tapenade traditionnelle, doit sa recette à notre père, bon vivant et fin palais, qui a su perfectionner cette recette, nous transportant ainsi, jusqu'au soleil du midi.
+Découvrez notre tapenade traditionnelle, dont la recette authentique nous vient de notre père, un épicurien au palais raffiné, qui a su perfectionner ce délicieux mélange, nous transportant ainsi au cœur du soleil du midi.
 
-Faite avec des olives noires, anchois et divers épices soigneusement sélectionnées pour nous donner ce goût unique.
+Fabriquée à partir d'olives noires, d'anchois et d'une sélection d'épices savamment choisies, notre tapenade offre un goût unique.
 
-100% naturelle, sans conservateur, sans colorants et sans additifs. Nous mettons une attention particulière à choisir nos ingrédients en circuit court et de bonne qualité.
+100% naturelle, sans conservateur, sans colorants et sans additifs, notre tapenade est confectionnée avec des ingrédients de qualité soigneusement sélectionnés en circuit court.
 
-Elle se déguste savoureusement avec un  verre de rosé/blanc sec et légé ou avec une bonne anisette!
+Pour accompagner cette savoureuse tapenade, dégustez-la avec un verre de rosé ou de vin blanc sec et léger, ou pourquoi pas avec une bonne anisette !
 
-Elle accompagnera vos salades, vos apéro de légumes, vos crackers ainsi que vos plats d'été.
+Notre tapenade se marie à merveille avec vos salades, vos plateaux d'apéritif à base de légumes, vos crackers, ainsi qu'avec vos plats estivaux.
