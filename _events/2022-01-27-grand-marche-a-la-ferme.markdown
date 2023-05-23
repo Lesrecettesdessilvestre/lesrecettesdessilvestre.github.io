@@ -3,6 +3,7 @@ layout: event
 title:  Grand Marché à la ferme 
 description: Venez découvrir des artisans de notre région.
 place: Ch. de la Ferme, 1040 St-Barthélemy
+city: St-Barthélemy
 eventdate:
     start: 2023-06-11
     end:

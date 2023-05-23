@@ -4,7 +4,7 @@ title:  Campagnarde
 description: Succombez à notre terrine campagnarde, une véritable symphonie de saveurs rustiques et gourmandes, alliant des viandes de choix, des épices traditionnelles et un savoir-faire artisanal, pour une expérience culinaire authentique et réconfortante qui rappelle les plaisirs simples de la campagne.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/produits/rillettes.jpg'
+image:  '/images/produits/campagnarde.jpg'
 price: "9.50chf le pot de 160g"
 ---
 

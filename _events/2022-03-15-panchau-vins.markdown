@@ -4,6 +4,7 @@ title: Panchaud Vins
 date:   2022-03-15 11:00:00 +0300
 image:  '/images/events/panchau-vins.jpg'
 place: Rte de Lausanne 10, 1410 St-Cierges
+city: St-Cierges
 eventdate:
     start: 2023-05-25
     end:

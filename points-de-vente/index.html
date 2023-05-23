@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Points de ventes
-description: 'Vous trouverez ci-dessous la liste des différents magasins ou vous pourrez acheter tout vos produits préférés :)'
+description: "Découvrez nos points de vente, des lieux où la gourmandise rencontre l'authenticité !"
 ---
 
 <!-- begin hero -->
@@ -12,7 +12,10 @@ description: 'Vous trouverez ci-dessous la liste des différents magasins ou vou
         <div class="hero__inner">
           {% if page.title %}
             <h1 class="hero__title">{{ page.title }}</h1>
-          {% endif %}                         
+          {% endif %}
+          {% if page.description %}
+            <p class="hero__description">{{ page.description }}</p>
+          {% endif %}                      
         </div>
       </div>
     </div>
