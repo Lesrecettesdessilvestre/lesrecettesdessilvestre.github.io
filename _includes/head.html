@@ -39,7 +39,8 @@
   strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape
   }}{% endif %}">
   <meta property="og:image" content="{{ page.image | absolute_url }}" />
-
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="page.url" />
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" />
 
