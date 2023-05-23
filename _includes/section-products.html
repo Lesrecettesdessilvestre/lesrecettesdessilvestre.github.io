@@ -17,7 +17,7 @@
   <div class="container">
     <div class="row">
       {% if site.products.size > 0 %}
-        {% for products in site.products offset:0 limit:3 %}
+        {% for products in site.products offset:0 limit:4 %}
           {% include product.html %}
         {% endfor %}
       {% endif %}

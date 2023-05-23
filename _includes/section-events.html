@@ -6,8 +6,8 @@
       <div class="col col-12">
         <div class="section__info">
           <div class="section__head">
-            <h2 class="section__title">Points de dégustation</h2>
-            <a class="section__link" href="{{ '/points-de-degustation' | relative_url }}">Voir tous les emplacements</a>
+            <h2 class="section__title">Évènements</h2>
+            <a class="section__link" href="{{ '/evenements' | relative_url }}">Voir tous les évènements</a>
           </div>
         </div>
       </div>
@@ -16,9 +16,9 @@
 
   <div class="container">
     <div class="row">
-      {% if site.tasteit.size > 0 %}
-        {% for post in site.tasteit offset:0 limit:2 %}
-          {% include taste.html %}
+      {% if site.events.size > 0 %}
+        {% for events in site.events offset:0 limit:3 %}
+          {% include event.html %}
         {% endfor %}
       {% endif %}
     </div>
