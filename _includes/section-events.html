@@ -16,8 +16,10 @@
 
   <div class="container">
     <div class="row">
-      {% if site.events.size > 0 %}
-        {% for events in site.events offset:0 limit:3 %}
+      {% assign sorted_events = site.events | sort : 'date' | where_exp : 'item',
+      'item.date > now' | limit : 4 %}
+      {% if sorted_events.size > 0 %}
+        {% for event in sorted_events %}
           {% include event.html %}
         {% endfor %}
       {% endif %}
