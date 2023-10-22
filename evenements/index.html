@@ -26,10 +26,11 @@ description: 'Vous trouverez ci-dessous la liste de tous les événements auquel
 <div class="container">
   <div class="row animate">
     {% if site.events.size > 0 %}
-      {% for events in site.events %}
-        {% include event.html %}
-      {% endfor %}
-    {% endif %}
+  {% assign sorted_events = site.events | sort: 'eventdate.start' | reverse %}
+  {% for events in sorted_events %}
+    {% include event.html %}
+  {% endfor %}
+{% endif %}
   </div>
 </div>
 
