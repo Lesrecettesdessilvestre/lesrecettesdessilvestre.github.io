@@ -14,6 +14,17 @@
 }
 
 /* Logo */
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+
+  @media only screen and (max-width: $mobile) {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
 .logo__link {
   padding: 4px 0;
   font-family: $logo-font-family;

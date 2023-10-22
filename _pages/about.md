@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos 
+title: Qui Sommes-Nous
 permalink: /a-propos/
 image: 
 ---
