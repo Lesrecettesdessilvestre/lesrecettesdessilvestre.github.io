@@ -5,9 +5,9 @@ date:   2023-03-06 08:01:35 +0300
 image:  '/images/points-de-ventes/au-petit-marcher-locale.jpg'
 tags:   [Boulangerie]
 contactname: 
-address: La Place 5, 1418 Vuarrens
-city: Vuarrens
-phone: 021 887 76 34
+address: Route d'Yverdon 2B, 1417 Essertines-sur-Yverdon
+city: Essertines-sur-Yverdon
+phone: 024 435 11 28
 mail: 
 map:
     lat: "46.72244309253995"
