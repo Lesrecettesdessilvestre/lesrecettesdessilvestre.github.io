@@ -10,7 +10,7 @@ eventdate:
 date:   2023-05-22 10:00:00 +0300
 image:  '/images/events/noel-saint-cierges.jpg'
 ---
-
+Découvrez le charme de l'hiver ! Bloquez dès maintenant les dates du 1ᵉʳ ou 2 décembre pour assister à une rencontre exceptionnelle avec les producteurs et artisans locaux. Trouvez des cadeaux uniques et éco-responsables au marché de Noël de notre région. Rejoignez-nous dès maintenant ! #marchedenoellocal #cadeauxecoresponsables
 
 
 
