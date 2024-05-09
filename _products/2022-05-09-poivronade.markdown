@@ -3,7 +3,7 @@ layout: product
 title:  Poivronade
 description: Dégustez notre Poivronade, une création audacieuse qui fusionne avec harmonie les saveurs vives et ensoleillées des poivrons avec une pointe d'épices, créant ainsi une expérience gustative unique et rafraîchissante, où se mêlent la douceur des poivrons grillés et des notes parfumées qui raviront vos papilles.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
-date:   2018-04-23 15:01:35 +0300
+date:   2018-02-04 15:01:35 +0300
 image:  '/images/produits/poivronade.webp'
 price: "-.--chf le pot de 90g"
 ---

@@ -3,7 +3,7 @@ layout: product
 title:  Pioussarde
 description: Dégustez notre terrine pioussarde, une création audacieuse qui marie harmonieusement les saveurs robustes de la campagne avec une touche de bière artisanale, créant ainsi une expérience gustative unique et surprenante, où se mêlent des morceaux de viandes sélectionnées et des arômes subtils qui éveilleront vos papilles.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
-date:   2018-04-23 15:01:35 +0300
+date:   2018-01-03 15:01:35 +0300
 image:  '/images/produits/pioussarde.webp'
 price: "9.50chf le pot de 160g"
 ---

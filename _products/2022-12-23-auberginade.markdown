@@ -3,7 +3,7 @@ layout: product
 title:  Auberginade
 description: Découvrez notre Auberginade, une délicieuse création qui vous transporte au cœur des saveurs méditerranéennes. Savamment élaborée à partir d'aubergines fraîches et d'herbes aromatiques sélectionnées, cette tartinade offre une explosion de saveurs en bouche. Laissez-vous séduire par son onctuosité et son parfum envoûtant, qui évoquent les chaudes journées estivales et les plaisirs simples de la cuisine maison. Parfaite en apéritif sur des toasts grillés ou en accompagnement de vos plats préférés, notre Auberginade saura ravir les amateurs de cuisine authentique et gourmande.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
-date:   2018-04-23 15:01:35 +0300
+date:   2018-02-03 15:01:35 +0300
 image:  '/images/produits/auberginade.webp'
 price: "-.--chf le pot de 90g"
 ---
