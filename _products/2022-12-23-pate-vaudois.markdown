@@ -3,6 +3,7 @@ layout: product
 title:  Pâté Vaudois
 description: Découvrez notre délicieux Pâté Vaudois, une spécialité du terroir qui célèbre les saveurs authentiques de notre région.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
+composition: "Provenance: Porc CH, Saindoux CH, Farine CH
 date:   2018-01-04 15:01:35 +0300
 image:  '/images/produits/pate-vaudois.webp'
 price: "4.00chf la piece exclusivement sur commande"

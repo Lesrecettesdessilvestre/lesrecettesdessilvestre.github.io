@@ -3,6 +3,7 @@ layout: product
 title:  Tapenade
 description: Savourez notre tapenade traditionnelle, une véritable explosion de saveurs méditerranéennes, alliant les olives noires, les anchois et une sélection d'épices soigneusement dosées, pour une expérience gustative intense et ensoleillée.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
+composition: "Provenance: Olive noire EU, Huile d'olive IT
 date:   2018-02-01 15:01:35 +0300
 image:  '/images/produits/tapenade.webp'
 price: "8.00 chf le pot de 90g"

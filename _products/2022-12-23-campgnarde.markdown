@@ -3,6 +3,7 @@ layout: product
 title:  Campagnarde
 description: Succombez à notre terrine campagnarde, une véritable symphonie de saveurs rustiques et gourmandes, alliant des viandes de choix, des épices traditionnelles et un savoir-faire artisanal, pour une expérience culinaire authentique et réconfortante qui rappelle les plaisirs simples de la campagne.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
+composition: "Provenance: Porc CH, Volaille CH
 date:   2018-01-02 15:01:35 +0300
 image:  '/images/produits/campagnarde.webp'
 price: "9.50chf le pot de 160g"
