@@ -26,7 +26,8 @@ description: 'Découvrez notre sélection de produits artisanaux, élaborés ave
 <div class="container">
   <div class="row animate">
     {% if site.products.size > 0 %}
-      {% for products in site.products %}
+    {% assign sorted_products = site.products | sort: 'date' %}
+      {% for products in sorted_products %}
         {% include product.html %}
       {% endfor %}
     {% endif %}
