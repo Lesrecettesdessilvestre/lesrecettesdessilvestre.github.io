@@ -1,25 +1,25 @@
 ---
 layout: product
 title:  Pâté Vaudois
-description: Dégustez notre terrine pioussarde, une création audacieuse qui marie harmonieusement les saveurs robustes de la campagne avec une touche de bière artisanale, créant ainsi une expérience gustative unique et surprenante, où se mêlent des morceaux de viandes sélectionnées et des arômes subtils qui éveilleront vos papilles.
+description: Découvrez notre délicieux Pâté Vaudois, une spécialité du terroir qui célèbre les saveurs authentiques de notre région.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/pate-vaudois.webp'
-price: "4.00chf la piece"
+price: "4.00chf la piece exclusivement sur commande"
 ---
 
 ## Description
 
-Découvrez notre délicieuse terrine pouissarde, une spécialité régionale qui allie la richesse des saveurs de la campagne avec une touche de bière pour une expérience gustative unique.
+Découvrez notre délicieux Pâté Vaudois, une spécialité du terroir qui célèbre les saveurs authentiques de notre région.
 
-Préparée avec amour et selon une recette traditionnelle, notre terrine pouissarde met à l'honneur les ingrédients de qualité et les savoir-faire locaux.
+Préparé avec passion et selon une recette ancestrale, notre Pâté Vaudois met en valeur les ingrédients de qualité et les traditions locales qui font la richesse de notre terroir.
 
-Cette terrine est élaborée à partir d'un mélange savamment équilibré de viandes de porc et de volaille, soigneusement sélectionnées pour leur tendreté et leur goût authentique. La particularité de notre terrine réside dans l'ajout de bière, qui confère une subtile note de caractère à chaque bouchée.
+Ce pâté est élaboré à partir d'un mélange savamment dosé de viandes de porc et de veau, soigneusement sélectionnées pour leur qualité et leur saveur incomparable. Chaque bouchée révèle la générosité de notre terroir, avec des morceaux de viande tendre et juteuse qui fondent en bouche.
 
-Nous utilisons une bière artisanale de notre région, choisie pour ses arômes uniques qui se marient harmonieusement avec les autres ingrédients. Cela donne à notre terrine pouissarde une saveur distincte qui saura ravir les palais les plus exigeants.
+La particularité de notre Pâté Vaudois réside dans l'ajout subtil d'épices et d'herbes aromatiques, qui apportent une touche de caractère à chaque tranche. Nous privilégions les ingrédients locaux, issus de producteurs de la région, pour garantir une fraîcheur et une authenticité inégalées.
 
-Comme toutes nos préparations, notre terrine pouissarde est confectionnée de manière artisanale, sans conservateurs, colorants ni additifs artificiels. Nous mettons un point d'honneur à sélectionner des ingrédients de qualité issus de producteurs locaux et à favoriser les circuits courts pour préserver l'authenticité de notre terrine.
+Comme toutes nos préparations, notre Pâté Vaudois est confectionné de manière artisanale, sans ajout de conservateurs, colorants ou additifs artificiels. Nous mettons un point d'honneur à préserver les saveurs naturelles de notre terroir, en favorisant les circuits courts et en privilégiant les partenariats avec des producteurs locaux.
 
-Dégustez notre terrine pouissarde en fines tranches sur un morceau de pain frais, accompagnée d'une pointe de moutarde à l'ancienne et de quelques cornichons croquants. Pour sublimer encore davantage les saveurs, accompagnez-la d'une bière de caractère ou d'un vin rouge corsé.
+Dégustez notre Pâté Vaudois en tranches fines sur du pain frais, accompagné d'une pointe de moutarde artisanale et de quelques cornichons croquants. Pour une expérience gustative complète, savourez-le avec un verre de vin blanc sec ou d'un vin rouge léger, et laissez-vous transporter par les saveurs authentiques de notre région.
 
-Que ce soit lors d'un repas convivial entre amis, d'un pique-nique champêtre ou tout simplement pour une pause gourmande, notre terrine pouissarde saura vous transporter au cœur de notre belle région, en vous offrant une expérience gustative mémorable.
+Que ce soit lors d'un apéritif entre amis, d'un repas en famille ou simplement pour une pause gourmande, notre Pâté Vaudois vous invite à découvrir toute la richesse et la convivialité de notre terroir, pour une expérience gustative inoubliable.

@@ -1,7 +1,7 @@
 ---
 layout: product
 title:  Poivronade
-description: Dégustez notre terrine pioussarde, une création audacieuse qui marie harmonieusement les saveurs robustes de la campagne avec une touche de bière artisanale, créant ainsi une expérience gustative unique et surprenante, où se mêlent des morceaux de viandes sélectionnées et des arômes subtils qui éveilleront vos papilles.
+description: Dégustez notre Poivronade, une création audacieuse qui fusionne avec harmonie les saveurs vives et ensoleillées des poivrons avec une pointe d'épices, créant ainsi une expérience gustative unique et rafraîchissante, où se mêlent la douceur des poivrons grillés et des notes parfumées qui raviront vos papilles.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
 image:  '/images/produits/poivronade.webp'
@@ -10,16 +10,12 @@ price: "-.--chf le pot de 90g"
 
 ## Description
 
-Découvrez notre délicieuse terrine pouissarde, une spécialité régionale qui allie la richesse des saveurs de la campagne avec une touche de bière pour une expérience gustative unique.
+Découvrez notre délicieuse Poivronade, une spécialité qui vous transporte au cœur des saveurs méditerranéennes. Élaborée avec soin et selon une recette authentique, notre Poivronade célèbre la richesse des poivrons du terroir, mariés à une sélection d'épices aromatiques pour une explosion de saveurs en bouche.
 
-Préparée avec amour et selon une recette traditionnelle, notre terrine pouissarde met à l'honneur les ingrédients de qualité et les savoir-faire locaux.
+Préparée avec passion et savoir-faire, notre Poivronade met en valeur des ingrédients de première qualité, cueillis à maturité pour garantir une saveur intense et authentique. Nous sélectionnons avec soin nos poivrons auprès de producteurs locaux, favorisant ainsi la fraîcheur et la qualité des produits.
 
-Cette terrine est élaborée à partir d'un mélange savamment équilibré de viandes de porc et de volaille, soigneusement sélectionnées pour leur tendreté et leur goût authentique. La particularité de notre terrine réside dans l'ajout de bière, qui confère une subtile note de caractère à chaque bouchée.
+Notre engagement pour des produits naturels se traduit également par l'absence totale de conservateurs, d'additifs ou de colorants artificiels dans notre préparation. Nous privilégions une approche artisanale, où chaque pot de Poivronade est confectionné avec le plus grand soin pour vous offrir une expérience gustative unique.
 
-Nous utilisons une bière artisanale de notre région, choisie pour ses arômes uniques qui se marient harmonieusement avec les autres ingrédients. Cela donne à notre terrine pouissarde une saveur distincte qui saura ravir les palais les plus exigeants.
+Savourez notre Poivronade sur des tartines grillées, en accompagnement de vos plats préférés ou simplement en trempette pour vos apéritifs. Pour une expérience gustative optimale, associez-la à un vin rouge fruité ou à un rosé frais, et laissez-vous envoûter par ses arômes ensoleillés.
 
-Comme toutes nos préparations, notre terrine pouissarde est confectionnée de manière artisanale, sans conservateurs, colorants ni additifs artificiels. Nous mettons un point d'honneur à sélectionner des ingrédients de qualité issus de producteurs locaux et à favoriser les circuits courts pour préserver l'authenticité de notre terrine.
-
-Dégustez notre terrine pouissarde en fines tranches sur un morceau de pain frais, accompagnée d'une pointe de moutarde à l'ancienne et de quelques cornichons croquants. Pour sublimer encore davantage les saveurs, accompagnez-la d'une bière de caractère ou d'un vin rouge corsé.
-
-Que ce soit lors d'un repas convivial entre amis, d'un pique-nique champêtre ou tout simplement pour une pause gourmande, notre terrine pouissarde saura vous transporter au cœur de notre belle région, en vous offrant une expérience gustative mémorable.
+Que ce soit lors d'un barbecue estival, d'un pique-nique en pleine nature ou d'une soirée entre amis, notre Poivronade vous transporte instantanément vers les saveurs enivrantes de la Méditerranée, pour un moment de convivialité et de plaisir partagé.
