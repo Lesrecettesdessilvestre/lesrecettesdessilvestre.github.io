@@ -16,6 +16,7 @@
       </h2>
 
       <p class="article__excerpt">{% if products.description %}{{ products.description }}{% else %}{{ products.content | strip_html | truncate: 80 }}{% endif %}</p>
+      <p class="article__excerpt">{% if products.composition %}{{ products.composition }}{% else %}{% endif %}</p>
 
     </div>
   </div>
