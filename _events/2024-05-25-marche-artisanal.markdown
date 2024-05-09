@@ -6,8 +6,8 @@ image:  '/images/events/2024-05-25-saint-ciergues.png'
 place: Route de Lausanne 10, 1410, Saint-Ciergues
 city: Saint-Ciergues
 eventdate:
-    start: 2023-12-09
-    end: 2023-12-10
+    start: 2024-05-25
+    end: 2024-05-25
 ---
 
 PANCHAUD-KOLB VINS
