@@ -17,4 +17,4 @@ Chez Maison Silvestre, nous n'avons pas encore obtenu de certifications officiel
 
 Enfin, bien que nous n'ayons pas encore mis en place des initiatives durables spécifiques, nous sommes conscients de l'importance de la préservation de notre environnement. Nous sommes engagés à évaluer régulièrement nos pratiques et à adopter des mesures respectueuses de l'environnement lorsque cela est possible.
 
-Nous vous invitons à explorer notre sélection de produits artisanaux et à vous laisser emporter par les délices que Maison Silvestre a à offrir. Merci de soutenir notre entreprise familiale et de partager notre passion pour les produits locaux de qualité.
+Nous vous invitons à explorer notre sélection de produits artisanaux et à vous laisser emporter par les délices que Maison Silvestre à offrir. Merci de soutenir notre entreprise familiale et de partager notre passion pour les produits locaux de qualité.
