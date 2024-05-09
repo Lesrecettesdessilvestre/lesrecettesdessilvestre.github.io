@@ -4,7 +4,7 @@ title:  Rillettes
 description: Découvrez nos rillettes traditionnelles, préparées avec passion selon une recette héritée de notre arrière-grand-père, offrant une texture fondante et un goût authentique qui vous transporte instantanément dans les délices de la cuisine artisanale.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/produits/rillettes.jpg'
+image:  '/images/produits/rillettes.webp'
 price: "12.00 chf le pot de 160g"
 ---
 

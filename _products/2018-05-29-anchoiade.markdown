@@ -4,7 +4,7 @@ title:  Anchoïade
 description: Découvrez notre anchoïade authentique, préparée avec passion selon une recette transmise de génération en génération, alliant des anchois de qualité, du basilic frais et une délicate huile d'olive extra vierge, pour une expérience gustative méditerranéenne pleine de caractère et de finesse.
 info: Pour la conservation, nous vous recommandons de les garder au frais à 4° max.<br/>Après ouverture, elle se conserve environ 5 à 15 jours.
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/produits/anchoiade.jpg'
+image:  '/images/produits/anchoiade.webp'
 price: "10.00 chf le pot de 90g"
 ---
 
